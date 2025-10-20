@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Krisztián Szénási
 
-> I'm a **Master’s Computer Engineering student @ [BME](https://www.bme.hu/en)**, currently working as an **iOS Product Engineer Intern @ [Craft](https://www.craft.do/)**.  
+I'm a **Master’s Computer Engineering student @ [BME](https://www.bme.hu/en)**, currently working as an **iOS Product Engineer Intern @ [Craft](https://www.craft.do/)**.  
 
 ---
 
@@ -57,8 +57,4 @@
 - [Engineering a Compiler](https://www.goodreads.com/book/show/1997607.Engineering_a_Compiler?from_search=true&from_srp=true&qid=qaCHOMx3x8&rank=1)
 - [Crafting Interpreters](https://www.goodreads.com/book/show/58661468-crafting-interpreters?from_search=true&from_srp=true&qid=qzQjMD7bkT&rank=1)
 - [modern C](https://www.manning.com/books/modern-c-third-edition)
-
----
-
-
 

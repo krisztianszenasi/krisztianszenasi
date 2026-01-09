@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Krisztián Szénási
 
-I'm a **Master’s Computer Engineering student @ [BME](https://www.bme.hu/en)**, currently working as an **iOS Product Engineer Intern @ [Craft](https://www.craft.do/)**.  
+I'm a **Master’s Computer Engineering student @ [BME](https://www.bme.hu/en)**.
 
 ---
 
@@ -44,13 +44,14 @@ I'm a **Master’s Computer Engineering student @ [BME](https://www.bme.hu/en)**
 
 ### 💼 Work Experience
 
-- 📝 **iOS Product Engineer Intern** — [Craft](https://www.craft.do/) _(Sep 2025 – Present)_
+- 📝 **iOS Product Engineer Intern** — [Craft](https://www.craft.do/) _(Sep 2025 – Dec 2025)_
 - 👨‍💻 **Frontend Developer Intern** — [Oracle](https://www.oracle.com/) _(Mar 2025 – Aug 2025)_
 - 🐍 **Python Backend Developer** — [OVB](https://www.ovb.hu/) _(Jul 2022 – Aug 2023)_
 - 🐍 **Python Developer** — [AttaDev](https://attadev.com/) _(Oct 2021 – Jun 2022)_
 
 ### 📚 Books I Enjoyed
 
+- [Everything but the Code](https://www.hackingwithswift.com/store/everything-but-the-code)
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
 - [Dive Into Design Patterns](https://www.goodreads.com/book/show/43125355-dive-into-design-patterns?from_search=true&from_srp=true&qid=g4GF3yjS7Z&rank=5)
 - [Compilers: Principles, Techniques, and Tools](https://www.goodreads.com/book/show/703102.Compilers?from_search=true&from_srp=true&qid=Uhcj4SJG76&rank=2)
